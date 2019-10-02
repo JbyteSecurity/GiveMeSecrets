@@ -8,6 +8,11 @@ Use regular expressions to get sensitive information from a given repository (Gi
 
 You only need to have python 3.6 or higher installed to launch this script. In addition you must have installed in the system git, pip and npm.
 
+## Modifications 
+
+The git clone now it works with windows and no longer with linux.
+
+
 ## How to use
 
 It's very easy to use, just run the script and pass the option (1- GitHub; 2 - pip; 3 - npm) and the repository. Example:
