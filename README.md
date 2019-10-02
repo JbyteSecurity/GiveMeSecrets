@@ -1,6 +1,6 @@
 ![Supported Python versions](https://img.shields.io/badge/python-3.6+-blue.svg?style=flat-square&logo=python)
 
-# **GiveMeSecrets**
+# **GiveMeSecrets for Windows Systems**
 
 Use regular expressions to get sensitive information from a given repository (GitHub, pip or npm).
 
@@ -26,3 +26,6 @@ Spanish post in [Boomernix.com](https://www.boomernix.com/2019/09/givemesecrets-
 ## Author
 
 Josué Encinar [@JosueEncinar](https://twitter.com/JosueEncinar)
+## Author of Modification for Windows
+
+Jordan Sex (@JordanSec)
