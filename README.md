@@ -28,4 +28,4 @@ Spanish post in [Boomernix.com](https://www.boomernix.com/2019/09/givemesecrets-
 Josué Encinar [@JosueEncinar](https://twitter.com/JosueEncinar)
 ## Author of Modification for Windows
 
-Jordan Sex (@JordanSec)
+Jordan Sec (@JordanSec)
